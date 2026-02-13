@@ -31,3 +31,6 @@ def choose_hotel(role):
 
     explanation.append("Manager policy → 4-star hotel allowed")
     return "4-star", explanation
+
+
+# AI appended note: prompt => change the theme keep all same just theme color and   a littlt ui

@@ -8,3 +8,6 @@ HOTEL_COST = {
     "3-star": 2000,
     "4-star": 4000
 }
+
+
+# AI appended note: prompt => change the theme keep all same just theme color and   a littlt ui

@@ -62,3 +62,6 @@ if st.button("🚀 Allocate Travel", use_container_width=True):
     st.subheader("Why this decision?")
     for i, exp in enumerate(result["explanation"], 1):
         st.write(f"{i}. {exp}")
+
+
+# AI appended note: prompt => change the theme keep all same just theme color and   a littlt ui
